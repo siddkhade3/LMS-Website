@@ -1,1 +1,3 @@
 # LMS Website
+
+![image alt](https://github.com/siddkhade3/LMS-Website/blob/13bd2b32aca5d4621791077b86cdcb37a227ced4/Screenshot%202026-03-05%20151532.png)
